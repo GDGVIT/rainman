@@ -7,8 +7,6 @@
 </p>
 
 ---
-[![DOCS](https://img.shields.io/badge/Documentation-see%20docs-green?style=flat-square&logo=appveyor)](INSERT_LINK_FOR_DOCS_HERE) 
-  [![UI ](https://img.shields.io/badge/User%20Interface-Link%20to%20UI-orange?style=flat-square&logo=appveyor)](INSERT_UI_LINK_HERE)
 
 
 ## Functionalities
@@ -25,19 +23,13 @@
 ## Instructions to run
 
 * Pre-requisites:
-	-  < insert pre-requisite >
-	-  < insert pre-requisite >
+	- A C++ compiler (e.g. g++, clang++, etc)
+	- CMake
 
-* < directions to install > 
-```bash
-< insert code >
-```
 
-* < directions to execute >
-
-```bash
-< insert code >
-```
+* Directions to use:
+	- Clone this project using `git clone https://github.com/supercmmetry/rainman`
+	- Include this project in your source directory and you are good to go!
 
 ## Contributors
 
@@ -47,53 +39,19 @@
 
 <td>
 
-John Doe
+supercmmetry
 
 <p align="center">
-<img src = "https://dscvit.com/images/dsc-logo-square.svg" width="150" height="150" alt="Your Name Here (Insert Your Image Link In Src">
+<img src = "https://dscvit.com/images/dsc-logo-square.svg" width="150" height="150" alt="Vishaal Selvaraj">
 </p>
 <p align="center">
-<a href = "https://github.com/person1"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36" alt="GitHub"/></a>
-<a href = "https://www.linkedin.com/in/person1">
+<a href = "https://github.com/supercmmetry"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36" alt="GitHub"/></a>
+<a href = "https://www.linkedin.com/in/vishaal-selvaraj-081639172">
 <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36" alt="LinkedIn"/>
 </a>
 </p>
 </td>
-
-
-<td>
-
-John Doe
-
-<p align="center">
-<img src = "https://dscvit.com/images/dsc-logo-square.svg" width="150" height="150" alt="Your Name Here (Insert Your Image Link In Src">
-</p>
-<p align="center">
-<a href = "https://github.com/person2"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36" alt="GitHub"/></a>
-<a href = "https://www.linkedin.com/in/person2">
-<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36" alt="LinkedIn"/>
-</a>
-</p>
-</td>
-
-
-
-<td>
-
-John Doe
-
-<p align="center">
-<img src = "https://dscvit.com/images/dsc-logo-square.svg" width="150" height="150" alt="Your Name Here (Insert Your Image Link In Src">
-</p>
-<p align="center">
-<a href = "https://github.com/person3"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36" alt="GitHub"/></a>
-<a href = "https://www.linkedin.com/in/person3">
-<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36" alt="LinkedIn"/>
-</a>
-</p>
-</td>
-</tr>
-  </table>
+</table>
 
 <p align="center">
 	Made with :heart: by <a href="https://dscvit.com">DSC VIT</a>
